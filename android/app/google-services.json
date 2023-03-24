@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338735423008",
+    "project_id": "rubix-b26b0",
+    "storage_bucket": "rubix-b26b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338735423008:android:dac223d50e7af69a102645",
+        "android_client_info": {
+          "package_name": "com.nikhilchourase.rubex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338735423008-7il2ob3a58ehgbbinio0n5gan2jj3q4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2puNrga0DAoXYLyfhzVQFPuL8u3aznvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338735423008-7il2ob3a58ehgbbinio0n5gan2jj3q4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
